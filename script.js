@@ -7,3 +7,4 @@ function multiply (number) {
 function subtract (number) {
 	return number-4;
 }
+add(multiply(subtract(5)));
